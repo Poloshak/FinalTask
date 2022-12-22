@@ -1,8 +1,9 @@
 # Итоги блока. Выбор специализации. IT-специалист.
 ## Итоговая проверочная работа
 
-1. На GitHub создан репозиторий [Poloshak/FinalTask]()
+1. На GitHub создан репозиторий [Poloshak/FinalTask](https://github.com/Poloshak/FinalTask.git)
 2. Блок-схема алгоритма расположена в коммите diagram
+![Diagram](Final_task_diagram.png)
 3. Описание решения находится в коммите readme.
 4. Программа, решающая поставленную задачу, находится в коммите code.
 

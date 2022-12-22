@@ -1,0 +1,15 @@
+/Users/monstruz/Desktop/Geekbrains/FinalTask/bin/Debug/net7.0/FinalTask
+/Users/monstruz/Desktop/Geekbrains/FinalTask/bin/Debug/net7.0/FinalTask.deps.json
+/Users/monstruz/Desktop/Geekbrains/FinalTask/bin/Debug/net7.0/FinalTask.runtimeconfig.json
+/Users/monstruz/Desktop/Geekbrains/FinalTask/bin/Debug/net7.0/FinalTask.dll
+/Users/monstruz/Desktop/Geekbrains/FinalTask/bin/Debug/net7.0/FinalTask.pdb
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.csproj.AssemblyReference.cache
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.AssemblyInfoInputs.cache
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.AssemblyInfo.cs
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.dll
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/refint/FinalTask.dll
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.pdb
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/FinalTask.genruntimeconfig.cache
+/Users/monstruz/Desktop/Geekbrains/FinalTask/obj/Debug/net7.0/ref/FinalTask.dll
